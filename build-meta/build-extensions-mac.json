@@ -10,6 +10,7 @@
     "zlib",
     "gd",
     "iconv",
+    "intl",
     "mbstring",
     "mbregex",
     "mysqlnd",
