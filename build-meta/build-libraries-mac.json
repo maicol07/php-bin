@@ -12,5 +12,6 @@
     "libpng",
     "onig",
     "sqlite",
+    "libyaml",
     "libzip"
 ]
