@@ -25,6 +25,7 @@
     "simplexml",
     "sockets",
     "tokenizer",
+    "yaml",
     "xmlwriter",
     "xmlreader",
     "zip"
